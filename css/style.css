@@ -97,8 +97,8 @@ h3 {
     background-color: var(--primarioOscuro);
 }
 .producto__imagen {
-    padding: 1rem;
     width: 100%;
+    padding: 1rem;
 }
 .producto__nombre {
     font-size: 4rem;
@@ -110,7 +110,7 @@ h3 {
 .producto__nombre,
 .producto__precio {
     font-family: var(--fuentePrincipal);
-    margin: 0.5rem;
+    margin: 1rem 0;
     line-height: 1.2;
     text-align: center;
 }
