@@ -161,6 +161,11 @@ h3 {
         column-gap: 2rem;
     }
 }
+@media (min-width: 768px) {
+    .nosotros__contenido {
+        margin: 2rem;
+    }
+}
 .nosotros__contenido {
     margin-top: 0;
     margin-bottom: 2rem;
